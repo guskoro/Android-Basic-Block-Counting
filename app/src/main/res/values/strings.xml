@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NgitungBalok</string>
+    <string name="length">Length</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="count">Count</string>
+    <string name="result">Result</string>
+    <string name="counting_your_block">Counting Your Block</string>
+</resources>
